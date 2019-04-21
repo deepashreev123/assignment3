@@ -1,0 +1,47 @@
+.cotainer_12
+ {
+ 	background: red;
+ }
+ nav li
+  {display: inline;}
+
+ .p 
+ {
+ 	width:100%;
+ 	background: #e3e3e3;
+ 	margin-left: 0px;
+     	
+
+	box-sizing: border-box;
+    float:rights;
+
+ }
+ h3
+ {
+font-family: sans-serif;
+
+ }
+ ul a{
+ 	text-decoration: none;
+ }
+ .grid_3
+ {
+ 	background-color: pink;
+ 	margin-top: 20px;
+ 	margin-left:0;
+ 	text-decoration-line:5px;
+ }
+
+.wrap  img{
+	width: 200px;
+	height:200px;
+}
+
+body
+{
+	background: pink;
+}
+p
+{
+	text-size:50%;
+}
